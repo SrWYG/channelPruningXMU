@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e4528d2d-a532-406e-898c-6f9929ac89e9" name="necc" url="http://218.193.57.183">
+        <fileTransfer host="218.193.57.183" port="20005" rootFolder="/notebooks/tensorflow/wyg" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="20005" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
